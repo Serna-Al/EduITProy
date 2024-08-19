@@ -1,0 +1,4 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ξοΜΐÿÿÿÿÿ
+c	java:S116"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©σόβ
+d	java:S116"ORename this field "PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡‡
